@@ -9,10 +9,15 @@ Please run the following line in the command line of a linux environment:
 ### Option 2) interactive game - pause on Spacebar press
 > python main_interactive.py 
 ### Option 3) game with arguments
+
 -g "CUSTOM_GAME_PATH" -s 1 -v 1 
+
 -g set custom game path
+
 -s saves images during game
+
 -v view results during game
+
 > python main.py -g chess_v4/obj_test_data -s 1 -v 1
 
 > python main.py -g chess_v4/obj_test_data -s 1
