@@ -1,0 +1,5 @@
+{
+    "classesFile": "chess_v4/obj.names",
+    "modelConfiguration": "chess_v4/yolov3_custom.cfg",
+    "modelWeights": "chess_v4/backup/yolov3_custom_final.weights"
+}

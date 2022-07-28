@@ -1,0 +1,4 @@
+classes = 12
+train = custom_data/train.txt
+names = custom_data/obj.names
+backup = custom_data/backup/
